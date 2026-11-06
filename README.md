@@ -2,13 +2,13 @@
 
 I hold a Master’s in Data Science from the University of Memphis. I’m interested in machine learning and generative AI, especially using Python to build predictive models and applications that answer questions from documents. I also enjoy building REST APIs and microservices with Java and Spring Boot.
 
-🎓 Education
+##🎓 Education
 
 M.S. in Data Science — University of Memphis, Memphis, Tennessee
 
 B.Tech. in Information Technology — Kakatiya Institute of Technology & Science, India
 
-🛠️ Skills and Tools
+##🛠️ Skills and Tools
 
 Programming — Python, Java, SQL, R
 
